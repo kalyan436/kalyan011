@@ -1,0 +1,8 @@
+﻿ @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebButton("save to cart")_;_script infofile_;_ZIP::ssf30.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").Link("SpeakersCategory").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("SpeakersCategory")_;_script infofile_;_ZIP::ssf31.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("$269.99").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("$269.99")_;_script infofile_;_ZIP::ssf32.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("WebElement").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("WebElement")_;_script infofile_;_ZIP::ssf33.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").WebButton("save_to_cart").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebButton("save to cart")_;_script infofile_;_ZIP::ssf34.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").WebButton("check_out_btn_2").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebButton("check out btn 2")_;_script infofile_;_ZIP::ssf35.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").Link("BOSE SOUNDLINK BLUETOOTH").Click
+Browser("Advantage Shopping").Page("Advantage Shopping_2").WebButton("save_to_cart").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping 2").WebButton("save to cart")_;_script infofile_;_ZIP::ssf43.xml_;_
